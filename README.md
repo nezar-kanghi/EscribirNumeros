@@ -1,0 +1,1 @@
+Este ejercicio escribe nuemeros del 1 al 10 en un fichero de texto llamado numeros.txt Utilizamos un fileWriter para crear y escrbir en el fichero, recorriendo un bucle for que genera los numeros y los guaqda uno por linea mediante write(). Al finalizar, cierra el flujo con close() y muestra un mensaje confirmando que los números se han guardado. incluimos IOException.
